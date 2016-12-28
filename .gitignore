@@ -1,0 +1,10 @@
+#logs
+.log
+#vscode folder
+.vscode/
+#pyc files
+*.pyc
+#backup files
+*.orig
+#record history file
+LAST_STATUS*
